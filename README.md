@@ -1,13 +1,14 @@
 <h1>Hi 👋, I'm Stefano Martins!</h1>
-<h3>I'm a Junior Full Stack Developer with a background in business management area. Recently graduated from em Le Wagon Web Development Bootcamp , transitioning into the technology field!</h3>
+<h3>I'm a Junior Full Stack Developer with a background in business management area. <p>
+    Recently graduated from em Le Wagon Web Development Bootcamp , transitioning into the technology field!</p></h3>
 
 - 🌱 I’m currently learning **SQL. After that, I'm planning on starting a Python course.**
 
 - 💬 Ask me about **whatever! From music to movies, to life in other planets and even after death, I love to have deep conversations!**
 
-- 📫 How to reach me **stefano.rcastilho@gmail.com**
+- 📫 How to reach me :**stefano.rcastilho@gmail.com**
 
-- ⚡ Fun fact **I have a comercial pilot license, and over 180h logged as a pilot! Question, what do you think is harder? Coding, or flying an airplane?**
+- ⚡ Fun fact: **I have a comercial pilot license , and over 180h logged as a pilot! Question, what do you think is harder? Coding, or flying an airplane?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

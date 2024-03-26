@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C5603AQGoF28HRnJQ8w/profile-displayphoto-shrink_800_800/0/1517491243803?e=1717027200&amp;v=beta&amp;t=_Hw3_3M4K_vqiNGqorhODpQ5wFxxfCk38hAC4IjHtDo" 
+<img src="https://github.com/stefanomartins91/foto-perfil/blob/main/Stefano%20C%20R%20Martins.png" 
      alt="Foto de Perfil" 
      style="width: 150px; height: 150px; border-radius: 75px">
 

@@ -1,5 +1,11 @@
 
-<img src="https://media.licdn.com/dms/image/C5603AQGoF28HRnJQ8w/profile-displayphoto-shrink_800_800/0/1517491243803?e=1717027200&amp;v=beta&amp;t=_Hw3_3M4K_vqiNGqorhODpQ5wFxxfCk38hAC4IjHtDo" loading="lazy" alt="imagem do perfil" id="ember512" class="evi-image lazy-image imgedit-profile-photo-frame-viewer__target-image ember-view" alt="Foto de Perfil" style="width: 150px; height: 150px; border-radius: 30%;">
+<img src="https://media.licdn.com/dms/image/C5603AQGoF28HRnJQ8w/profile-displayphoto-shrink_800_800/0/1517491243803?e=1717027200&amp;v=beta&amp;t=_Hw3_3M4K_vqiNGqorhODpQ5wFxxfCk38hAC4IjHtDo" 
+     loading="lazy" 
+     alt="imagem do perfil" 
+     id="ember512" 
+     class="evi-image lazy-image imgedit-profile-photo-frame-viewer__target-image ember-view" 
+     alt="Foto de Perfil" 
+     style="width: 150px; height: 150px; border-radius: 50%;">
 <div>
 <h1>Stefano Martins</h1>
 <h3>I'm a Junior Full Stack Developer from Brazil 🇧🇷 with a background in business management area.👨‍💼 <p>

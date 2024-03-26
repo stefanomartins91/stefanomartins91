@@ -1,11 +1,11 @@
-<container>
 <img src="https://media.licdn.com/dms/image/C5603AQGoF28HRnJQ8w/profile-displayphoto-shrink_800_800/0/1517491243803?e=1717027200&amp;v=beta&amp;t=_Hw3_3M4K_vqiNGqorhODpQ5wFxxfCk38hAC4IjHtDo" 
      loading="lazy" 
      alt="imagem do perfil" 
      id="ember512" 
      class="evi-image lazy-image imgedit-profile-photo-frame-viewer__target-image ember-view" 
      alt="Foto de Perfil" 
-     style="width: 150px; height: 150px; border-radius: 50%">
+     style="width: 150px; height: 150px; border-radius: 50%"
+     align="left">
 <div>
 <h1>Stefano Martins</h1>
 <h3>I'm a Junior Full Stack Developer from Brazil <img src="https://emojicdn.elk.sh/🇧🇷" alt="🇧🇷" style="height: 1em;" /> with a background in business management.👨‍💼 <p>
@@ -37,4 +37,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanomartins91&show_icons=true&locale=en&layout=compact" alt="stefanomartins91" /></p>
 </div>
-</container>

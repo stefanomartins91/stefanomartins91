@@ -1,4 +1,4 @@
-
+<container>
 <img src="https://media.licdn.com/dms/image/C5603AQGoF28HRnJQ8w/profile-displayphoto-shrink_800_800/0/1517491243803?e=1717027200&amp;v=beta&amp;t=_Hw3_3M4K_vqiNGqorhODpQ5wFxxfCk38hAC4IjHtDo" 
      loading="lazy" 
      alt="imagem do perfil" 
@@ -37,3 +37,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanomartins91&show_icons=true&locale=en&layout=compact" alt="stefanomartins91" /></p>
 </div>
+</container>

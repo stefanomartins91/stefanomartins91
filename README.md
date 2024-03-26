@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -13,19 +13,18 @@
     padding: 0;
   }
   
-  /* Adicionei um estilo para os links */
   a {
     color: white;
   }
   
-  /* Estilo para o container principal */
+ 
   .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
   }
   
-  /* Estilo para as imagens */
+
   img {
     max-width: 100%;
     height: auto;

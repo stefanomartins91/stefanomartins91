@@ -1,49 +1,9 @@
-<html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Stefano Martins</title>
-<style>
-  body {
-    background: linear-gradient(to bottom right, #525252, #3d72b4);
-    font-family: Arial, sans-serif;
-    color: white; /* Alterei a cor do texto para branco para melhor contraste */
-    margin: 0;
-    padding: 0;
-  }
-  
-  a {
-    color: white;
-  }
-  
- 
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  
-
-  img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-  }
-</style>
-</head>
-<body>
-
-
 
 <h1>Hi 👋, I'm Stefano Martins!</h1>
 <h3>I'm a Junior Full Stack Developer from Brazil 🇧🇷 with a background in business management area.👨‍💼 <p>
     Recently graduated from em Le Wagon Web Development Bootcamp, transitioning into the technology field!</p></h3>
     
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 👨‍🎓 I’m currently learning ➡️ **SQL. After that, I'm planning on starting a Python course.**
 

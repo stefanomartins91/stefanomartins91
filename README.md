@@ -4,14 +4,9 @@
      id="ember512" 
      class="evi-image lazy-image imgedit-profile-photo-frame-viewer__target-image ember-view" 
      alt="Foto de Perfil" 
-     style="width: 150px; height: 150px; border-radius: 50%"
-     align="left">
+     style="width: 150px; height: 150px; border-radius: 50%">
 
 <h1>Stefano Martins</h1>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 
 <div>
      

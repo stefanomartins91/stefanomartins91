@@ -2,7 +2,6 @@
      loading="lazy" 
      alt="imagem do perfil" 
      id="ember512" 
-     class="evi-image lazy-image imgedit-profile-photo-frame-viewer__target-image ember-view" 
      alt="Foto de Perfil" 
      style="width: 150px; height: 150px; border-radius: 50%">
 

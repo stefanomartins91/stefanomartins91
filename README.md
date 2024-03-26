@@ -5,7 +5,7 @@
      id="ember512" 
      class="evi-image lazy-image imgedit-profile-photo-frame-viewer__target-image ember-view" 
      alt="Foto de Perfil" 
-     style="width: 150px; height: 150px;">
+     style="width: 150px; height: 150px; border-radius: 75px">
 <div>
 <h1>Stefano Martins</h1>
 <h3>I'm a Junior Full Stack Developer from Brazil 🇧🇷 with a background in business management area.👨‍💼 <p>

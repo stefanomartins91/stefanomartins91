@@ -11,7 +11,7 @@
 <div>
      
 <h3>I'm a Junior Full Stack Developer from Brazil <img src="https://emojicdn.elk.sh/🇧🇷" alt="🇧🇷" style="height: 1em;" /> with a background in business management.👨‍💼 <p>
-    I have Recently graduated from Le Wagon Web Development Bootcamp, and I'm transitioning into the technology field!🤓</p></h3>
+    I have recently graduated from Le Wagon Web Development Bootcamp, and I'm transitioning into the technology field!🤓</p></h3>
     
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 

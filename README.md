@@ -1,7 +1,10 @@
 <h1>Hi 👋, I'm Stefano Martins!</h1>
 <h3>I'm a Junior Full Stack Developer from Brazil 🇧🇷 with a background in business management area.👨‍💼 <p>
     Recently graduated from em Le Wagon Web Development Bootcamp, transitioning into the technology field!</p></h3>
-
+    
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 👨‍🎓 I’m currently learning ➡️ **SQL. After that, I'm planning on starting a Python course.**
 

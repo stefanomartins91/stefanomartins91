@@ -5,7 +5,7 @@
     Recently graduated from em Le Wagon Web Development Bootcamp, transitioning into the technology field!</p></h3>
     
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<img src="https://www.linkedin.com/in/stefano-martins-32268310b/" alt="Foto de Perfil" style="width: 150px; height: 150px; border-radius: 50%;">
+<img src="[https://www.linkedin.com/in/stefano-martins-32268310b/](https://media.licdn.com/dms/image/C5603AQGoF28HRnJQ8w/profile-displayphoto-shrink_800_800/0/1517491243803?e=1717027200&v=beta&t=_Hw3_3M4K_vqiNGqorhODpQ5wFxxfCk38hAC4IjHtDo)" alt="Foto de Perfil" style="width: 150px; height: 150px; border-radius: 50%;">
 
 
 - 👨‍🎓 I’m currently learning ➡️ **SQL. After that, I'm planning on starting a Python course.**

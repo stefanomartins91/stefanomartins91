@@ -6,8 +6,9 @@
      alt="Foto de Perfil" 
      style="width: 150px; height: 150px; border-radius: 50%"
      align="left">
-<div>
+
 <h1>Stefano Martins</h1>
+<div>
 <h3>I'm a Junior Full Stack Developer from Brazil <img src="https://emojicdn.elk.sh/🇧🇷" alt="🇧🇷" style="height: 1em;" /> with a background in business management.👨‍💼 <p>
     I have Recently graduated from Le Wagon Web Development Bootcamp, and I'm transitioning into the technology field!🤓</p></h3>
     

@@ -4,7 +4,7 @@
 
 <h1>Stefano Martins</h1>
 
-<div>
+<div style="border: 2px solid #000; padding: 10px;">
      
 <h3>I'm a Junior Full Stack Developer from Brazil <img src="https://emojicdn.elk.sh/🇧🇷" alt="🇧🇷" style="height: 1em;" /> with a background in business management.👨‍💼 <p>
     I have recently graduated from Le Wagon Web Development Bootcamp, and I'm transitioning into the technology field!🤓</p></h3>

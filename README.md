@@ -5,6 +5,7 @@
     
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+
 - 👨‍🎓 I’m currently learning ➡️ **SQL. After that, I'm planning on starting a Python course.**
 
 - 💬 Ask me about ➡️ **whatever! From music to movies, to life in other planets and even after death, I love to have deep conversations!**
@@ -13,9 +14,9 @@
 
 - ⚡ Fun fact ➡️ **I have a comercial pilot license 👨‍✈️, and over 180h logged as a pilot! Question, what do you think is harder? Coding, or flying an airplane?🤔🤔🤔**
 
-- 🎯 Hobbies ➡️ 🎮 I admit, I'm sort of a geek. I **love** playing video games (RDR2 best game ever made). Currently playing Cyberpunk, but CS 2 and PUBG every now and then as well.
-                 <p>⚽ I also love sports. I go to the gym like 5x a week🏋️‍♂️ and play football whenever i can</p>
-                 <p>🎸 Music is also part of my life, and I play acoustic guitar at my balcony when I'm in the mood or if I wanna try a new song</p>
+- 🎯 Hobbies ➡️ 🎮 **I admit, I'm sort of a geek. I love playing video games (RDR2 best game ever made). Currently playing Cyberpunk, but CS 2 and PUBG every now and then as well.**
+                 <p>⚽**I also love sports. I go to the gym like 5x a week🏋️‍♂️ and play football whenever i can**</p>
+                 <p>🎸**Music is also part of my life, and I play acoustic guitar at my balcony when I'm in the mood or if I wanna learn a new song.** </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

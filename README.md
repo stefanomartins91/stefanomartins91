@@ -15,9 +15,10 @@
 
 
 <div>
+     
 - 👨‍🎓 I’m currently learning ➡️ <strong> SQL After that, I'm planning on starting a Python course. </strong>
 
-- 💬 Ask me about ➡️ **whatever! From music to movies, to life in other planets and even after death, I love to have deep conversations!**
+- 💬 Ask me about ➡️ **Whatever! From music to movies, to life in other planets and even after death, I love to have deep conversations!**
 
 - 📫 How to reach me ➡️ **stefano.rcastilho@gmail.com**
 

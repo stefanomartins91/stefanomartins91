@@ -1,6 +1,8 @@
-#<img src="https://github.com/stefanomartins91/foto-perfil/blob/main/Stefano%20C%20R%20Martins.png" 
+<!--
+<img src="https://github.com/stefanomartins91/foto-perfil/blob/main/Stefano%20C%20R%20Martins.png" 
      alt="Foto de Perfil" 
-     style="width: 150px; height: 150px; border-radius: 75px">#
+     style="width: 150px; height: 150px; border-radius: 75px">
+     -->
 
 <h1>Stefano Martins</h1>
 

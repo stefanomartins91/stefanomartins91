@@ -16,7 +16,7 @@
 
 <div>
      
-- 👨‍🎓 I’m currently learning ➡️ <strong> SQL After that, I'm planning on starting a Python course. </strong>
+- 👨‍🎓 I've recently finished a ➡️ <strong> SQL course, and I'm currently increasing my habilities in HTML, CSS and JS. </strong>
 
 - 💬 Ask me about ➡️ **Whatever! From music to movies, to life in other planets and even after death, I love to have deep conversations!**
 

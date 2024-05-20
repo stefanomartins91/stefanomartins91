@@ -18,6 +18,8 @@
      
 - 👨‍🎓 I've recently finished a ➡️ <strong> SQL course, and I'm currently increasing my habilities in HTML, CSS and JS. </strong>
 
+- 👨‍💼 I am currently working on a personal project called <strong> Trampaki </strong> with my partners. It's a platform designed to help people looking for jobs and people hiring to find each other. A simple solution for both sides! We're very thrilled about it and hopefully we will make it a real business soon.
+  
 - 💬 Ask me about ➡️ **Whatever! From music to movies, to life in other planets and even after death, I love to have deep conversations!**
 
 - 📫 How to reach me ➡️ **stefano.rcastilho@gmail.com**
